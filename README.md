@@ -21,7 +21,9 @@
 ∙ 5,697,636 images for 100 individuals (5.22 TB)
 ## 3. Examples of sample data
 ### 1) Enroll facial images
+![Enroll][D:\assets\Enroll]
 ### 2) Verify facial images
+![Verify][D:\assets\Verify]
 * The facial dataset includes facial images with some flickering, caused by the capturing environment.
 ## 4. Data delivery method
 Due to limitations on file upload size, if you are interested in acquiring the dataset, please contact us at the provided email, and we will assist you in accessing the data. <br>
