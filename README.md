@@ -22,15 +22,11 @@
 ## 3. Examples of sample data
 ### 1) Enroll facial images
 ![r5_31_4K_3_None_Right_2_Front_148478](https://github.com/EtriHRIFace/Face-Dataset/assets/149992598/b7a48b26-3585-4280-89e1-ffdb40c80c96)
-
 ### 2) Verify facial images
 ![r5_31_4K_1_Cap_Both_1_Front_86091](https://github.com/EtriHRIFace/Face-Dataset/assets/149992598/de9684e8-6f51-4c48-9760-77d27d5c966c)
-
-
 * The facial dataset includes facial images with some flickering, caused by the capturing environment.
 ## 4. Data delivery method
 Due to limitations on file upload size, if you are interested in acquiring the dataset, please contact us at the provided email, and we will assist you in accessing the data. <br>
-<br>
 <br>
 ## Acknowledgement
 This work was supported by the Institute of Information & communications Technology Planning & Evaluation(IITP) grant funded by the Korea government(MSIT) (No. 2021-0-00172, The development of human Re-identification and masked face recognition based on CCTV camera)
