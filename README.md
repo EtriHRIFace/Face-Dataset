@@ -21,15 +21,16 @@
 ∙ 5,697,636 images for 100 individuals (5.22 TB)
 ## 3. Examples of sample data
 ### 1) Enroll facial images
-![Enroll][D:\assets\Enroll]
+![r_31_4K_3_None_Right_2_Front_148478](https://github.com/EtriHRIFace/Face-Dataset/assets/149992598/62e355db-83a3-4964-b860-68ae5ab9ecb2)
 ### 2) Verify facial images
-![Verify][D:\assets\Verify]
+![r_31_4K_1_Cap_Both_1_Front_86091](https://github.com/EtriHRIFace/Face-Dataset/assets/149992598/7c5df3fb-87da-402a-91ba-59da134cff01)
+
 * The facial dataset includes facial images with some flickering, caused by the capturing environment.
 ## 4. Data delivery method
 Due to limitations on file upload size, if you are interested in acquiring the dataset, please contact us at the provided email, and we will assist you in accessing the data. <br>
 <br>
-※ Contact information : jangjy@etri.re.kr
-<br>
 <br>
 ## Acknowledgement
 This work was supported by the Institute of Information & communications Technology Planning & Evaluation(IITP) grant funded by the Korea government(MSIT) (No. 2021-0-00172, The development of human Re-identification and masked face recognition based on CCTV camera)
+<br>
+#### ※ Contact information : jangjy@etri.re.kr
