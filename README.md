@@ -21,9 +21,11 @@
 ∙ 5,697,636 images for 100 individuals (5.22 TB)
 ## 3. Examples of sample data
 ### 1) Enroll facial images
-![r_31_4K_3_None_Right_2_Front_148478](https://github.com/EtriHRIFace/Face-Dataset/assets/149992598/62e355db-83a3-4964-b860-68ae5ab9ecb2)
+![r5_31_4K_3_None_Right_2_Front_148478](https://github.com/EtriHRIFace/Face-Dataset/assets/149992598/b7a48b26-3585-4280-89e1-ffdb40c80c96)
+
 ### 2) Verify facial images
-![r_31_4K_1_Cap_Both_1_Front_86091](https://github.com/EtriHRIFace/Face-Dataset/assets/149992598/7c5df3fb-87da-402a-91ba-59da134cff01)
+![r5_31_4K_1_Cap_Both_1_Front_86091](https://github.com/EtriHRIFace/Face-Dataset/assets/149992598/de9684e8-6f51-4c48-9760-77d27d5c966c)
+
 
 * The facial dataset includes facial images with some flickering, caused by the capturing environment.
 ## 4. Data delivery method
