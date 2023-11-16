@@ -35,4 +35,4 @@ Due to limitations on file upload size, if you are interested in acquiring the d
 ## Acknowledgement
 This work was supported by the Institute of Information & communications Technology Planning & Evaluation(IITP) grant funded by the Korea government(MSIT) (No. 2021-0-00172, The development of human Re-identification and masked face recognition based on CCTV camera)
 <br>
-#### ※ Contact information : jangjy@etri.re.kr
+## Contact information : jangjy@etri.re.kr
