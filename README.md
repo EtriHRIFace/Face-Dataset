@@ -1,4 +1,4 @@
-# Swapped-Faces-ETRI-Dataset
+# Swapped-Faces-ETRI-Dataset(SFED)
 ![title](https://github.com/EtriHRIFace/Face-Dataset/assets/149992598/c1b230e6-242c-4dd7-8bd5-ccd2b8d2e7ec)
 <br>
 ![Face Swapping Dataset](https://github.com/EtriHRIFace/Face-Dataset/wiki)
