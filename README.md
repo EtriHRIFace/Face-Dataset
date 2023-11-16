@@ -1,5 +1,5 @@
 # Swapped Face-Dataset
-![title](https://github.com/EtriHRIFace/Face-Dataset/assets/149992598/4a858f91-57b7-4474-92ea-92c79a405bef)
+![title](https://github.com/EtriHRIFace/Face-Dataset/assets/149992598/c1b230e6-242c-4dd7-8bd5-ccd2b8d2e7ec)
 <br>
 ![Face Swapping Dataset](https://github.com/EtriHRIFace/Face-Dataset/wiki)
 ## 1. Overview of open facial dataset 
