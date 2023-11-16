@@ -3,7 +3,7 @@
 ## 1. Overview of open facial dataset 
   We curated a facial dataset by capturing images in various environments using cameras, featuring faces adorned with masks, sunglasses, hats, scarves, or left unadorned. The dataset accounts for real-world conditions, including lighting, distance, pose, and camera resolution. To protect privacy, we transformed facial image data acquired in real-world scenarios into swapped faces and are making it available as open data. The compiled face swap dataset is accessible for research purposes
 ### 1) Data Collection Target
-  50 males and 50 females
+   ∙ 50 males and 50 females
 ### 2) Data Acquisition Environment 
   ∙ Types of cameras : UHD, QHD, FHD, HD cameras <br>
   ∙ Camera height : 3m, 2.5m, 2m <br>
@@ -12,7 +12,7 @@
   ∙ Distance from the camera : 4m, 3m, 2m, 1m <br>
   ∙ Pose variation : Frontal view, Left and right profile at 45 degrees/90 degrees
 ### 3) Data collection time
-2 hours in the morning, 2 hours in the afternoon, 2 hours in the evening (after sunset)
+ ∙ 2 hours in the morning, 2 hours in the afternoon, 2 hours in the evening (after sunset)
 ## 2. Dataset composition
 ### 1) Performance validation facial dataset
 ∙ Enroll face data set : 100 individuals x 12 images of frontal faces <br>
