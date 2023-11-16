@@ -1,5 +1,5 @@
 # Open Face-Dataset
-![Face Swapping Dataset](https://github.com/EtriHRIFace/Face-Dataset.wiki.git)
+![Face Swapping Dataset](https://github.com/EtriHRIFace/Face-Dataset/wiki)
 ## 1. Overview of open facial dataset 
   We curated a facial dataset by capturing images in various environments using cameras, featuring faces adorned with masks, sunglasses, hats, scarves, or left unadorned. The dataset accounts for real-world conditions, including lighting, distance, pose, and camera resolution. To protect privacy, we transformed facial image data acquired in real-world scenarios into swapped faces and are making it available as open data. The compiled face swap dataset is accessible for research purposes
 ### 1) Data Collection Target
