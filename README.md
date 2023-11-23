@@ -1,7 +1,6 @@
 # Swapped-Faces-ETRI-Dataset(SFED)
 ![title](https://github.com/EtriHRIFace/Face-Dataset/assets/149992598/c1b230e6-242c-4dd7-8bd5-ccd2b8d2e7ec)
 <br>
-![Face Swapping Dataset](https://github.com/EtriHRIFace/Face-Dataset/wiki)
 ## 1. Overview of open facial dataset 
   We curated a facial dataset by capturing images in various environments using cameras, featuring faces adorned with masks, sunglasses, hats, scarves, or left unadorned. The dataset accounts for real-world conditions, including lighting, distance, pose, and camera resolution. To protect privacy, we transformed facial image data acquired in real-world scenarios into swapped faces and are making it available as open data. The compiled face swap dataset is accessible for research purposes
 ### 1) Data Collection Target
@@ -20,7 +19,7 @@
 ∙ Enroll face data set : 100 individuals x 12 images of frontal faces <br>
 ∙ Verify face data set : 100 individuals x 100 images of frontal or side faces <br>
 ### 2) Full facial dataset  
-∙ 5,697,636 images for 100 individuals (5.22 TB)
+∙ 5,697,636 images for 100 individuals (5.22 TB) ![Face Swapping Dataset](https://github.com/EtriHRIFace/Face-Dataset/wiki)
 ## 3. Examples of sample data
 ### 1) Enroll facial images
 ![r5_31_4K_3_None_Right_2_Front_148478](https://github.com/EtriHRIFace/Face-Dataset/assets/149992598/b7a48b26-3585-4280-89e1-ffdb40c80c96)
