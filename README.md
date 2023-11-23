@@ -12,6 +12,11 @@
   ∙ Lighting conditions : Left, Right, Bilateral lighting <br>
   ∙ Distance from the camera : 4m, 3m, 2m, 1m <br>
   ∙ Pose variation : Frontal view, Left and right profile at 45 degrees/90 degrees
+  ![camera](https://github.com/EtriHRIFace/Face-Dataset/assets/149992598/d03e04b1-6185-411e-b567-95e5fd0ec970)
+  ![accesary](https://github.com/EtriHRIFace/Face-Dataset/assets/149992598/838ba9bf-149e-433d-a6a7-3ffe9e9cd9f5)
+  ![light](https://github.com/EtriHRIFace/Face-Dataset/assets/149992598/afaf9b33-2932-48c3-b65d-c95afe9c09f1)
+  ![distance](https://github.com/EtriHRIFace/Face-Dataset/assets/149992598/71fd04c8-6fbe-49ac-bb6c-7eee2b6e480d)
+  ![pose](https://github.com/EtriHRIFace/Face-Dataset/assets/149992598/0426f9f6-f5cf-44a1-9635-b96bdeda450e)
 ### 3) Data collection time
  ∙ 2 hours in the morning, 2 hours in the afternoon, 2 hours in the evening (after sunset)
 ## 2. Dataset composition
