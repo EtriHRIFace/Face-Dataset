@@ -12,16 +12,18 @@
   * Lighting conditions : Left, Right, Bilateral lighting <br>
   * Distance from the camera : 4m, 3m, 2m, 1m <br>
   * Pose variation : Frontal view, Left and right profile at 45 degrees/90 degrees
-   ![faceFiles2](https://github.com/EtriHRIFace/Face-Dataset/assets/149992598/05f3c1f6-8159-4885-ac5f-783a47751172)
+  ![faceFiles3-1](https://github.com/EtriHRIFace/Face-Dataset/assets/149992598/eebba2d9-3607-4ce3-9d3b-09896968d25d)
+  ![faceFiles3-2](https://github.com/EtriHRIFace/Face-Dataset/assets/149992598/208fa4f1-4605-4037-aa1b-55ef379fb376)
+
 ### 3) Data collection time
  * 2 hours in the morning, 2 hours in the afternoon, 2 hours in the evening (after sunset)
 ## 2. Dataset composition
 ### 1) Performance validation facial dataset
-* Enroll face data set : 100 individuals x 12 images of frontal faces <br>
+* Enroll face data set : 100 individuals x 12 images of frontal faces ![Face Swapping Dataset](https://github.com/EtriHRIFace/Face-Dataset/wiki) <br>
 * Verify face data set : 100 individuals x 100 images of frontal or side faces <br>
 ### 2) Full facial dataset  
 All data is hosted on Google Drive:
-* 5,697,636 images for 100 individuals (5.22 TB) ![Face Swapping Dataset](https://github.com/EtriHRIFace/Face-Dataset/wiki)
+* 5,697,636 images for 100 individuals (5.22 TB) 
 
 | Path | Size | Files | Format | Description
 | :--- | :--: | ----: | :----: | :----------
