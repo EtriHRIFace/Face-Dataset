@@ -12,7 +12,8 @@
   * Lighting conditions : Left, Right, Bilateral lighting <br>
   * Distance from the camera : 4m, 3m, 2m, 1m <br>
   * Pose variation : Frontal view, Left and right profile at 45 degrees/90 degrees
- ![facefile2](https://github.com/EtriHRIFace/Face-Dataset/assets/149992598/c20017e5-d43e-49ee-924c-283a6d30b5cc)
+ ![facefile1](https://github.com/EtriHRIFace/Face-Dataset/assets/149992598/6776df9b-7bfa-42a9-8845-0d6be03af441)
+
 
 
 ### 3) Data collection time
