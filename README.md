@@ -29,8 +29,8 @@ All data is hosted on Google Drive:
 | Path | Size | Files | Format | Description
 | :--- | :--: | ----: | :----: | :----------
 |[SFED](https://drive.google.com/drive/u/0/folders/0AC6PJOIeh1ufUk9PVA) | 5.7TB|5,697,636 | JPG | Main folder
-| &boxvr;&nbsp; [Enroll](https://drive.google.com/drive/u/0/folders/0AC6PJOIeh1ufUk9PVA) | 1.13GB|1,200 | JPG | 
-| &boxvr;&nbsp; [Verify](https://drive.google.com/drive/u/0/folders/0AC6PJOIeh1ufUk9PVA) | 9.91GB|10,000 | JPG |
+| &boxvr;&nbsp; [Enroll](https://drive.google.com/drive/u/0/folders/0AC6PJOIeh1ufUk9PVA) | 1.08GB|1,200 | JPG | 
+| &boxvr;&nbsp; [Verify](https://drive.google.com/drive/u/0/folders/0AC6PJOIeh1ufUk9PVA) | 9.46GB|10,000 | JPG |
 | &boxvr;&nbsp; [Valid](https://drive.google.com/drive/u/0/folders/0AC6PJOIeh1ufUk9PVA) | 4.91GB|5,000 | JPG |
 
  
