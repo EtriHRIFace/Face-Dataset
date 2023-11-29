@@ -28,8 +28,8 @@ All data is hosted on Google Drive:
 
 | Path | Size | Files | Format | Description
 | :--- | :--: | ----: | :----: | :----------
-|[SFED] (https://drive.google.com/drive/u/0/folders/0AC6PJOIeh1ufUk9PVA) | 5.7TB|5,697,636 | PNG | Main folder
-| &boxvr;&nbsp; [Enroll] (https://drive.google.com/drive/u/0/folders/0AC6PJOIeh1ufUk9PVA)
+|[SFED](https://drive.google.com/drive/u/0/folders/0AC6PJOIeh1ufUk9PVA) | 5.7TB|5,697,636 | PNG | Main folder
+| &boxvr;&nbsp; [Enroll](https://drive.google.com/drive/u/0/folders/0AC6PJOIeh1ufUk9PVA)
 
  
 ## 3. Examples of sample data
