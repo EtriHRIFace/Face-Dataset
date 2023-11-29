@@ -19,8 +19,8 @@
 ### 3) Data collection time
  * 2 hours in the morning, 2 hours in the afternoon, 2 hours in the evening (after sunset)
 ## 2. Dataset composition
-### 1) Performance validation facial dataset 
-* Enroll face data set : 100 individuals x 12 images of frontal faces ![Face Swapped Enroll Dataset](https://github.com/EtriHRIFace/Face-Dataset/wiki/Swapped-Facial-Images) <br>
+### 1) Performance validation facial dataset ![Face Swapped Dataset](https://github.com/EtriHRIFace/Face-Dataset/wiki/Swapped-Facial-Images) 
+* Enroll face data set : 100 individuals x 12 images of frontal faces <br>
 * Verify face data set : 100 individuals x 100 images of frontal or side faces <br>
 ### 2) Full facial dataset  
 All data is hosted on Google Drive:
