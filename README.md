@@ -19,7 +19,7 @@
 ### 3) Data collection time
  * 2 hours in the morning, 2 hours in the afternoon, 2 hours in the evening (after sunset)
 ## 2. Dataset composition
-### 1) Performance validation facial dataset
+### 1) Performance validation facial dataset (https://github.com/EtriHRIFace/Face-Dataset/wiki/Swapped-Facial-Images)
 * Enroll face data set : 100 individuals x 12 images of frontal faces ![Face Swapping Dataset](https://github.com/EtriHRIFace/Face-Dataset/wiki) <br>
 * Verify face data set : 100 individuals x 100 images of frontal or side faces <br>
 ### 2) Full facial dataset  
@@ -28,7 +28,7 @@ All data is hosted on Google Drive:
 
 | Path | Size | Files | Format | Description
 | :--- | :--: | ----: | :----: | :----------
-|[SFED](https://drive.google.com/drive/u/0/folders/0AC6PJOIeh1ufUk9PVA) | 5.7TB|5,697,636 | PNG | Main folder
+|[SFED](https://drive.google.com/drive/u/0/folders/0AC6PJOIeh1ufUk9PVA) | 5.7TB|5,697,636 | JPG | Main folder
 | &boxvr;&nbsp; [Enroll](https://drive.google.com/drive/u/0/folders/0AC6PJOIeh1ufUk9PVA) | 1.13GB|1,200 | JPG | 
 | &boxvr;&nbsp; [Verify](https://drive.google.com/drive/u/0/folders/0AC6PJOIeh1ufUk9PVA) | 9.91GB|10,000 | JPG |
 | &boxvr;&nbsp; [Valid](https://drive.google.com/drive/u/0/folders/0AC6PJOIeh1ufUk9PVA) | 4.91GB|5,000 | JPG |
