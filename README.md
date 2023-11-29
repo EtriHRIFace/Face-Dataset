@@ -41,7 +41,7 @@ All data is hosted on Google Drive:
 ![r5_31_4K_1_Cap_Both_1_Front_86091](https://github.com/EtriHRIFace/Face-Dataset/assets/149992598/de9684e8-6f51-4c48-9760-77d27d5c966c)
 * The facial dataset includes facial images with some flickering, caused by the capturing environment.
 ## 4. Data Download method
-Due to limitations on file upload size, if you are interested in acquiring the dataset, please contact us at the provided email, and we will assist you in accessing the data. <br>
+Due to limitations on file upload size, if you are interested in acquiring the dataset, please contact us at the provided email( jangjy@etri.re.kr), and we will assist you in accessing the data. <br>
 <br>
 ## Licenses
 
