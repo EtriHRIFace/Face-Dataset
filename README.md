@@ -15,7 +15,7 @@
  ![facefile1](https://github.com/EtriHRIFace/Face-Dataset/assets/149992598/6776df9b-7bfa-42a9-8845-0d6be03af441)
 ### 3) Data collection time
  * 2 hours in the morning, 2 hours in the afternoon, 2 hours in the evening (after sunset)
-### 4) Mask Image
+### 4) Mask Images
  * 100 images from CelebA are used as mask images, which are images used to swap the original facial images.
 ![mask image](https://github.com/EtriHRIFace/Face-Dataset/assets/149992598/07c501e6-0f21-4be9-b717-291c1d159028)
 
@@ -45,12 +45,12 @@ All data is hosted on Google Drive:
 ## 4. Data Download method
 If you are interested in acquiring the dataset, please contact us at the provided email( jangjy@etri.re.kr), and we will assist you in accessing the data. <br>
 <br>
+
 ## Licenses
 Swapped-faces-Etri-Dataset (SFED) is available for non-commercial research purposes only. All images in the SFED dataset are the property of the Electronics and Telecommunications Research Institute (ETRI). The license allows for free use, redistribution, and adaptation for non-commercial purposes. Compliance with the following is required when applied for non-commercial purposes:
 * The images cannot be sold, traded, or used for commercial purposes.
 * Do not publish or distribute without the consent of ETRI.
 * ETRI reserves the right to terminate access to the SFED dataset at any time. For further details, please contact us.
-## Privacy
 
 ## Acknowledgement
 This work was supported by the Institute of Information & communications Technology Planning & Evaluation(IITP) grant funded by the Korea government(MSIT) (No. 2021-0-00172, The development of human Re-identification and masked face recognition based on CCTV camera)
