@@ -36,9 +36,9 @@ All data is hosted on Google Drive:
  
 ## 3. Examples of sample data
 ### 1) Enroll facial images
-![r5_31_4K_3_None_Right_2_Front_148478](https://github.com/EtriHRIFace/Face-Dataset/assets/149992598/b7a48b26-3585-4280-89e1-ffdb40c80c96)
+![Enroll](https://github.com/EtriHRIFace/Face-Dataset/assets/149992598/04be50be-1d53-4814-8f50-5c68d470d6b5)
 ### 2) Verify facial images
-![r5_31_4K_1_Cap_Both_1_Front_86091](https://github.com/EtriHRIFace/Face-Dataset/assets/149992598/de9684e8-6f51-4c48-9760-77d27d5c966c)
+![Verify](https://github.com/EtriHRIFace/Face-Dataset/assets/149992598/b678f427-a2c3-4add-b4c3-6a34296f3a05)
 * The facial dataset includes facial images with some flickering, caused by the capturing environment.
 ## 4. Data Download method
 Due to limitations on file upload size, if you are interested in acquiring the dataset, please contact us at the provided email( jangjy@etri.re.kr), and we will assist you in accessing the data. <br>
