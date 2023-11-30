@@ -22,7 +22,7 @@
 
 ## 2. Dataset composition
 ### 1) Performance validation facial dataset 
-* Enroll face data set : 100 individuals x 12 images of frontal faces ![Swapped Enroll Facial Dataset](https://github.com/EtriHRIFace/Face-Dataset/wiki) <br>
+* Enroll face data set : 100 individuals x 12 images of frontal faces <br>
 * Verify face data set : 100 individuals x 100 images of frontal or side faces <br>
 ### 2) Full facial dataset  
 All data is hosted on Google Drive:
