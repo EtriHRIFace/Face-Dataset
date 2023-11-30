@@ -13,11 +13,10 @@
   * Distance from the camera : 4m, 3m, 2m, 1m <br>
   * Pose variation : Frontal view, Left and right profile at 45 degrees/90 degrees
  ![facefile1](https://github.com/EtriHRIFace/Face-Dataset/assets/149992598/6776df9b-7bfa-42a9-8845-0d6be03af441)
-
-
-
 ### 3) Data collection time
  * 2 hours in the morning, 2 hours in the afternoon, 2 hours in the evening (after sunset)
+### 4) Mask Image
+ * 100 mask image from CelebA are used
 ## 2. Dataset composition
 ### 1) Performance validation facial dataset ![Swapped Facial Dataset](https://github.com/EtriHRIFace/Face-Dataset/wiki/Swapped-Facial-Images) 
 * Enroll face data set : 100 individuals x 12 images of frontal faces <br>
