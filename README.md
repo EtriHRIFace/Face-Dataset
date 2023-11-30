@@ -16,7 +16,7 @@
 ### 3) Data collection time
  * 2 hours in the morning, 2 hours in the afternoon, 2 hours in the evening (after sunset)
 ### 4) Mask Image
- * 100 images from CelebA are used as mask images
+ * 100 images from CelebA are used as mask images, which are images used to swap the original facial images.
 ![mask image](https://github.com/EtriHRIFace/Face-Dataset/assets/149992598/07c501e6-0f21-4be9-b717-291c1d159028)
 
 
