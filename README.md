@@ -49,8 +49,7 @@ If you are interested in acquiring the dataset, please contact us at the provide
 Swapped-faces-Etri-Dataset (SFED) is available for non-commercial research purposes only. All images in the SFED dataset are the property of the Electronics and Telecommunications Research Institute (ETRI). The license allows for free use, redistribution, and adaptation for non-commercial purposes. Compliance with the following is required when applied for non-commercial purposes:
 * The images cannot be sold, traded, or used for commercial purposes.
 * Do not publish or distribute without the consent of ETRI.
-* ETRI reserves the right to terminate access to the SFED dataset at any time.<br>
-For further details, please contact us.
+* ETRI reserves the right to terminate access to the SFED dataset at any time. For further details, please contact us.
 ## Privacy
 
 ## Acknowledgement
