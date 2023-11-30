@@ -16,7 +16,10 @@
 ### 3) Data collection time
  * 2 hours in the morning, 2 hours in the afternoon, 2 hours in the evening (after sunset)
 ### 4) Mask Image
- * 100 mask image from CelebA are used
+ * 100 images from CelebA are used as mask images
+![mask image](https://github.com/EtriHRIFace/Face-Dataset/assets/149992598/07c501e6-0f21-4be9-b717-291c1d159028)
+
+
 ## 2. Dataset composition
 ### 1) Performance validation facial dataset ![Swapped Facial Dataset](https://github.com/EtriHRIFace/Face-Dataset/wiki/Swapped-Facial-Images) 
 * Enroll face data set : 100 individuals x 12 images of frontal faces <br>
@@ -27,7 +30,7 @@ All data is hosted on Google Drive:
 
 | Path | Size | Files | Format | Description
 | :---- | :---: | -----: | :-----: | :----------
-|[SFED](https://drive.google.com/drive/u/0/folders/0AC6PJOIeh1ufUk9PVA) | 5.7TB|5,697,636 | JPG | Main folder
+|[SFED](https://drive.google.com/drive/u/0/folders/0AC6PJOIeh1ufUk9PVA) | 5.2TB|5,697,636 | JPG | Main folder
 | &boxvr;&nbsp; [Enroll](https://drive.google.com/drive/u/0/folders/0AC6PJOIeh1ufUk9PVA) | 1.08GB|1,200 | JPG | Multi-resolution  12 images/person for 100 peoples at 3840×2160/1920x1080/2688x1520
 | &boxvr;&nbsp; [Verify](https://drive.google.com/file/d/1YJ4m6w6NkriC-ouGLoz6OCysNUIg5SuL/view?usp=sharing) | 9.46GB|10,000 | JPG | Multi-resolution 100 images/person for 100 peoples at 3840×2160/1920x1080/2688x1520
 | &boxvr;&nbsp; [Valid](https://drive.google.com/drive/u/0/folders/0AC6PJOIeh1ufUk9PVA) | 4.91GB|5,000 | JPG |
