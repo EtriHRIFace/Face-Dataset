@@ -30,10 +30,10 @@ All data is hosted on Google Drive:
 
 | Path | Size | Files | Format | Description
 | :---- | :---: | -----: | :-----: | :----------
-|[SFED](https://drive.google.com/drive/u/0/folders/0AC6PJOIeh1ufUk9PVA) | 5.2TB|5,697,636 | JPG | Main folder
+|[SFED](https://drive.google.com/drive/folders/0AC6PJOIeh1ufUk9PVA?q=parent:0AC6PJOIeh1ufUk9PVA%20sharedwith:public) | 5.2TB|5,697,636 | JPG | Main folder
 |&boxvr;&nbsp; [Enroll](https://drive.google.com/file/d/10i87Ht9TpDC3woLif5d0Dh5n768ceeMI/view?usp=sharing) | 1.08GB|1,200 | JPG | 12 frontal images for each of the 100 individuals
 |&boxvr;&nbsp; [Verify](https://drive.google.com/file/d/1YJ4m6w6NkriC-ouGLoz6OCysNUIg5SuL/view?usp=sharing) | 9.46GB|10,000 | JPG | 100 images for each of the 100 individuals
-|&boxvr;&nbsp; [Valid](https://drive.google.com/drive/u/0/folders/0AC6PJOIeh1ufUk9PVA) | 4.91GB|5,000 | JPG | Multi-resolution for each of the 100 individuals at 3840×2160/1920x1080/2688x1520
+|&boxvr;&nbsp; [Valid-1](https://drive.google.com/file/d/1CLZBIpax7MWQQw3x0xejz6lCw76VnpyM/view?usp=sharing) | 1.2GB|650 | JPG | Multi-resolution for each of the 100 individuals at 3840×2160/1920x1080/2688x1520
 
  
 ## 3. Examples of sample data
