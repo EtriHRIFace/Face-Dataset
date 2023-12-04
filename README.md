@@ -9,7 +9,7 @@ Face swapping is the process of changing the identity of a person in the target 
 ![swapped facial image samples](https://github.com/EtriHRIFace/Face-Dataset/assets/149992598/e217afb5-9c02-4cba-9c18-47adbd383d7b)
 
 ### 2) Data Collection
-Facial dataset is constructed for 100 individuals by varying factors such as lighting, distance, pose, camera resolution, and accessories as follows. 
+The facial dataset was collected with a total of 100 participants, including 50 males and 50 females by varying lighting, distance, pose, camera, and accessories as follows.
 #### a) Target person
   * 50 males and 50 females
 #### b) Acquisition Environment 
