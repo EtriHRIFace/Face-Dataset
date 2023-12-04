@@ -10,7 +10,7 @@ Face swapping is the process of changing the identity of a person in the target 
 
 ### 2) Data Collection
 The facial dataset was collected with a total of 100 participants, including 50 males and 50 females by varying lighting, distance, pose, camera, and accessories as follows.
-#### a) Target person
+#### a) Participants
   * 50 males and 50 females
 #### b) Acquisition Environment 
   * Types of cameras : UHD, QHD, FHD, HD cameras <br>
