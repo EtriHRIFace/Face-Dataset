@@ -29,6 +29,7 @@ The facial dataset was collected with a total of 100 participants, including 50 
 ![mask image](https://github.com/EtriHRIFace/Face-Dataset/assets/149992598/07c501e6-0f21-4be9-b717-291c1d159028)
 ### 4) Swapped Face Images
 Swapped face images is changed with 100 source images and 100 target images capturred in various environments using cameras, featuring faces adorned with masks, sunglasses, hats, scarves, or left unadorned as followes. 
+![swapped faces](https://github.com/EtriHRIFace/Face-Dataset/assets/149992598/e97a2315-2315-4c35-9fa4-bae03b60c448)
 
 ## 2. Dataset composition
 SFED Dataset is composed of "Enroll and verify" sub-dataset for training and testing purposes and "valid" dataset. 
