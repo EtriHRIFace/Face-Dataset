@@ -9,7 +9,7 @@ Face swapping is the process of changing the identity of a person in the target 
 ![swapped facial image samples](https://github.com/EtriHRIFace/Face-Dataset/assets/149992598/e217afb5-9c02-4cba-9c18-47adbd383d7b)
 
 ### 2) Data Collection
-Facial dataset is constructed by varying factors such as lighting, distance, pose, camera resolution, and accessories as follows. 
+Facial dataset is constructed for 100 individuals by varying factors such as lighting, distance, pose, camera resolution, and accessories as follows. 
 #### a) Target person
   * 50 males and 50 females
 #### b) Acquisition Environment 
@@ -21,7 +21,7 @@ Facial dataset is constructed by varying factors such as lighting, distance, pos
   * Pose variation : Frontal view, Left and right profile at 45 degrees/90 degrees <br><br>
   The following is a pie chart representing the distribution of images constructed based on the database acquisition environment.
  ![facefile1](https://github.com/EtriHRIFace/Face-Dataset/assets/149992598/6776df9b-7bfa-42a9-8845-0d6be03af441)
-#### c) Data collection time
+#### c) Acquisition time
  * 2 hours in the morning, 2 hours in the afternoon, 2 hours in the evening (after sunset)
 #### d) Source Images
  * 100 images from [CelebA-HQ-Deltas](https://drive.google.com/drive/folders/0B4qLcYyJmiz0TXY1NG02bzZVRGs?resourcekey=0-arAVTUfW9KRhN-irJchVKQ) are used as mask images, which are images used to swap the original facial images.
