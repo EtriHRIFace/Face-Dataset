@@ -28,7 +28,7 @@ The facial dataset was collected with a total of 100 participants, including 50 
  * 100 images from [CelebA-HQ-Deltas](https://drive.google.com/drive/folders/0B4qLcYyJmiz0TXY1NG02bzZVRGs?resourcekey=0-arAVTUfW9KRhN-irJchVKQ) are used as mask images, which are images used to swap the original facial images.
 ![mask image](https://github.com/EtriHRIFace/Face-Dataset/assets/149992598/07c501e6-0f21-4be9-b717-291c1d159028)
 ### 4) Swapped Face Images
-Swapped face images is changed with 100 source images and 100 target images capturred in various environments using cameras, featuring faces adorned with masks, sunglasses, hats, scarves, or left unadorned as followes. <br>
+Swapped face images is changed with 100 source images and 100 target images capturred in various environments using cameras, featuring faces adorned with masks, sunglasses, hats, scarves, or left unadorned as followes. <br><br>
 ![swapped faces](https://github.com/EtriHRIFace/Face-Dataset/assets/149992598/c7f0f322-6623-4673-9855-ef86f6f34f26)
 
 ## 2. Dataset composition
