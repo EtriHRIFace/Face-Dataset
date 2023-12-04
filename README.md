@@ -23,7 +23,7 @@ The facial dataset was collected with a total of 100 participants, including 50 
   The following is a pie chart representing the distribution of images based on the database acquisition environment.
  ![facefile1](https://github.com/EtriHRIFace/Face-Dataset/assets/149992598/6776df9b-7bfa-42a9-8845-0d6be03af441)
 #### c) Acquisition time
- * 2 hours in the morning, 2 hours in the afternoon, 2 hours in the evening (after sunset)
+ * 2 hours in the morning, 2 hours in the afternoon, 2 hours in the evening (after sunset) <Br>
 ### 3) Source Images
  * 100 images from [CelebA-HQ-Deltas](https://drive.google.com/drive/folders/0B4qLcYyJmiz0TXY1NG02bzZVRGs?resourcekey=0-arAVTUfW9KRhN-irJchVKQ) are used as mask images, which are images used to swap the original facial images.
 ![source images](https://github.com/EtriHRIFace/Face-Dataset/assets/149992598/464073a2-a381-4a2b-9e27-d7e9b089a580)
