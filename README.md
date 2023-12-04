@@ -19,7 +19,7 @@ The facial dataset was collected with a total of 100 participants, including 50 
   * Lighting conditions : Left, Right, Bilateral lighting <br>
   * Distance from the camera : 4m, 3m, 2m, 1m <br>
   * Pose variation : Frontal view, Left and right profile at 45 degrees/90 degrees <br><br>
-  The following is a pie chart representing the distribution of images constructed based on the database acquisition environment.
+  The following is a pie chart representing the distribution of images based on the database acquisition environment.
  ![facefile1](https://github.com/EtriHRIFace/Face-Dataset/assets/149992598/6776df9b-7bfa-42a9-8845-0d6be03af441)
 #### c) Acquisition time
  * 2 hours in the morning, 2 hours in the afternoon, 2 hours in the evening (after sunset)
