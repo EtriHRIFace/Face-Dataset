@@ -23,10 +23,10 @@ Facial dataset is constructed for 100 individuals by varying factors such as lig
  ![facefile1](https://github.com/EtriHRIFace/Face-Dataset/assets/149992598/6776df9b-7bfa-42a9-8845-0d6be03af441)
 #### c) Acquisition time
  * 2 hours in the morning, 2 hours in the afternoon, 2 hours in the evening (after sunset)
-#### d) Source Images
+### 3) Source Images
  * 100 images from [CelebA-HQ-Deltas](https://drive.google.com/drive/folders/0B4qLcYyJmiz0TXY1NG02bzZVRGs?resourcekey=0-arAVTUfW9KRhN-irJchVKQ) are used as mask images, which are images used to swap the original facial images.
 ![mask image](https://github.com/EtriHRIFace/Face-Dataset/assets/149992598/07c501e6-0f21-4be9-b717-291c1d159028)
-#### e) Swapped Face Images
+### 4) Swapped Face Images
 
 
 ## 2. Dataset composition
