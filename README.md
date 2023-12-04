@@ -3,9 +3,16 @@
 <br>
 ## 1. Overview of swapped facial dataset 
   We created a facial dataset by capturing images in various environments using cameras, featuring faces adorned with masks, sunglasses, hats, scarves, or left unadorned. The dataset accounts for real-world conditions, including lighting, distance, pose, and camera resolution. To protect privacy, we transformed facial image data acquired in real-world scenarios into swapped faces and are making it available as open data. The compiled face swap dataset is accessible for research purposes
-### 1) Data Collection Target
+### 1) Face Swapping 
+Face swapping is the process of changing the identity of a person in the target image to that of another person in the source image while preserving pose and attributes such as skin tone, lighting conditions, expression, and accessories. In other words, face swapping aims to generate a facial image with the identity of the source image while preserving the pose and attributes of the target image. It involves extracting unique facial features such as eyes, nose, and mouth from the source image and capturing facial pose, angle, expression, lighting conditions, makeup, and other color-related scene features from the target image. These extracted attributes are then combined to create the desired facial image, incorporating the source identity, target pose, and attributes. The following example illustrates the generation of a swapped face using a source image and a target image.<br><br>
+
+![swapped facial image samples](https://github.com/EtriHRIFace/Face-Dataset/assets/149992598/e217afb5-9c02-4cba-9c18-47adbd383d7b)
+
+### 2) Data Collection
+Facial dataset is constructed by varying factors such as lighting, distance, pose, camera resolution, and accessories as follows. 
+#### a) Target person
   * 50 males and 50 females
-### 2) Data Acquisition Environment 
+#### b) Acquisition Environment 
   * Types of cameras : UHD, QHD, FHD, HD cameras <br>
   * Camera height : 3m, 2.5m, 2m <br>
   * Accessories used: Mask, Sunglasses, Hat, Scarf <br>
@@ -13,14 +20,18 @@
   * Distance from the camera : 4m, 3m, 2m, 1m <br>
   * Pose variation : Frontal view, Left and right profile at 45 degrees/90 degrees
  ![facefile1](https://github.com/EtriHRIFace/Face-Dataset/assets/149992598/6776df9b-7bfa-42a9-8845-0d6be03af441)
-### 3) Data collection time
+#### c) Data collection time
  * 2 hours in the morning, 2 hours in the afternoon, 2 hours in the evening (after sunset)
-### 4) Mask Images
+#### d) Source Images
  * 100 images from [CelebA-HQ-Deltas](https://drive.google.com/drive/folders/0B4qLcYyJmiz0TXY1NG02bzZVRGs?resourcekey=0-arAVTUfW9KRhN-irJchVKQ) are used as mask images, which are images used to swap the original facial images.
 ![mask image](https://github.com/EtriHRIFace/Face-Dataset/assets/149992598/07c501e6-0f21-4be9-b717-291c1d159028)
+#### e) Swapped Face Images
 
 
 ## 2. Dataset composition
+
+
+Dataset is constructed involves assembling a collection of data for analysis, training, or testing purposes. It typically includes gathering relevant information, organizing it into a structured format, and ensuring its suitability for the intended use, whether it be for machine learning, research, or other analytical purposes. The process may also encompass cleaning and preprocessing the data to enhance its quality and usability.
 ### 1) Performance validation facial dataset 
 * Enroll face data set : 100 individuals x 12 images of frontal faces <br>
 * Verify face data set : 100 individuals x 100 images of frontal or side faces <br>
