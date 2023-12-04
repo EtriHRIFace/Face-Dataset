@@ -27,12 +27,10 @@ Facial dataset is constructed for 100 individuals by varying factors such as lig
  * 100 images from [CelebA-HQ-Deltas](https://drive.google.com/drive/folders/0B4qLcYyJmiz0TXY1NG02bzZVRGs?resourcekey=0-arAVTUfW9KRhN-irJchVKQ) are used as mask images, which are images used to swap the original facial images.
 ![mask image](https://github.com/EtriHRIFace/Face-Dataset/assets/149992598/07c501e6-0f21-4be9-b717-291c1d159028)
 ### 4) Swapped Face Images
-
+Swapped face images is changed with 100 source images and 100 target images capturred in various environments using cameras, featuring faces adorned with masks, sunglasses, hats, scarves, or left unadorned as followes. 
 
 ## 2. Dataset composition
-
-
-Dataset is constructed involves assembling a collection of data for analysis, training, or testing purposes. It typically includes gathering relevant information, organizing it into a structured format, and ensuring its suitability for the intended use, whether it be for machine learning, research, or other analytical purposes. The process may also encompass cleaning and preprocessing the data to enhance its quality and usability.
+SFED Dataset is composed of "Enroll and verify" sub-dataset for training and testing purposes and "valid" dataset. 
 ### 1) Performance validation facial dataset 
 * Enroll face data set : 100 individuals x 12 images of frontal faces <br>
 * Verify face data set : 100 individuals x 100 images of frontal or side faces <br>
