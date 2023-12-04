@@ -18,7 +18,7 @@ Facial dataset is constructed by varying factors such as lighting, distance, pos
   * Accessories used: Mask, Sunglasses, Hat, Scarf <br>
   * Lighting conditions : Left, Right, Bilateral lighting <br>
   * Distance from the camera : 4m, 3m, 2m, 1m <br>
-  * Pose variation : Frontal view, Left and right profile at 45 degrees/90 degrees <br>
+  * Pose variation : Frontal view, Left and right profile at 45 degrees/90 degrees <br><br>
   The following is a pie chart representing the distribution of images constructed based on the database acquisition environment.
  ![facefile1](https://github.com/EtriHRIFace/Face-Dataset/assets/149992598/6776df9b-7bfa-42a9-8845-0d6be03af441)
 #### c) Data collection time
