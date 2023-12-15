@@ -39,7 +39,7 @@ SFED Dataset is composed of "Enroll and verify" sub-dataset for training and tes
 * Verify face data set : 100 individuals x 100 images of frontal or side faces <br>
 ### 2) Full Facial Dataset  
 All data is hosted on Google Drive:
-* 5,697,636 images for 100 individuals (5.22 TB) 
+* 5,698,781 images for 100 individuals (5.22 TB) 
 
 | Path | Size | Files | Format | Description
 | :---- | :---: | -----: | :-----: | :----------
