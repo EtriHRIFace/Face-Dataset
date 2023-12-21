@@ -66,13 +66,12 @@ Swapped-faces-Etri-Dataset (SFED) is available for non-commercial research purpo
 * ETRI reserves the right to terminate access to the SFED dataset at any time. For further details, please contact us.<br>
 
 
-## Agreement
-This is an agreement (“Agreement”) between you the downloader (“Downloader”) and the owner of the materials (“User”) governing the use of the materials (“Materials”) to be downloaded.
-* Acceptance of this Agreement
-By downloading or otherwise accessing the Materials, Downloader represents his/her acceptance of the terms of this Agreement.
-* Modification of this Agreement
-Users may modify the terms of this Agreement at any time. However, any modifications to this Agreement will only be effective for downloads subsequent to such modification. No modifications will supersede any previous terms that were in effect at the time of the Downloader’s download.<br>
-
+## Swapped-faces-Etri-Dataset (SFED) Data Usage Agreement
+SFED is only available for non-commercial research purposes. All images in the SFED dataset are owned by the Electronics and Telecommunications Research Institute (ETRI) and are the result of an IITP project. The license allows for free use, redistribution, and adaptation for non-commercial purposes. Compliance with the following terms is required when applied for non-commercial purposes:
+* The images cannot be sold, traded, or used for commercial purposes.
+* Posting or distributing without ETRI's consent is prohibited.
+* ETRI reserves the right to terminate access to the SFED dataset at any time.
+To agree to the above terms and download the data, please sign the agreement document and send it to the contact email address( jangjy@etri.re.kr) provided. For more details regarding the download process, please contact us via email.
 
 ## Acknowledgement
 This work was supported by the Institute of Information & communications Technology Planning & Evaluation(IITP) grant funded by the Korea government(MSIT) (No. 2021-0-00172, The development of human Re-identification and masked face recognition based on CCTV camera)
