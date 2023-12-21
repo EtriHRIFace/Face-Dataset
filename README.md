@@ -67,7 +67,6 @@ Swapped-faces-Etri-Dataset (SFED) is available for non-commercial research purpo
 
 
 ## Agreement
-SFED Data Usage Agreement
 This is an agreement (“Agreement”) between you the downloader (“Downloader”) and the owner of the materials (“User”) governing the use of the materials (“Materials”) to be downloaded.
 * Acceptance of this Agreement
 By downloading or otherwise accessing the Materials, Downloader represents his/her acceptance of the terms of this Agreement.
